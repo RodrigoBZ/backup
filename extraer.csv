@@ -1,0 +1,100 @@
+1|1|6|TRUE|1| Tejido dañado|2017-05-18|20:43:42
+2|2|8|TRUE|2| Sangrado moderado|2017-01-12|12:40:03
+3|3|2|TRUE|3|Sin Observaciones|2017-03-07|12:42:46
+4|4|4|TRUE|4| Sangrad excesivo|2017-03-08|01:08:53
+5|5|1|TRUE|5| Tejido dañado|2017-04-21|21:03:11
+6|6|3|TRUE|6|Excelente estado|2017-04-30|09:43:05
+7|7|7|TRUE|7|Excelente estado|2017-03-10|08:33:40
+8|8|100|TRUE|8|Falta coloracion|2017-05-05|10:28:29
+9|9|5|TRUE|9| Sangrad excesivo|2017-01-01|19:43:06
+10|10|12|TRUE|10|Excelente estado|2017-03-24|01:53:57
+11|11|11|TRUE|11| Tejido dañado|2017-03-17|07:35:48
+12|12|13|TRUE|12|Falta coloracion|2017-01-12|20:51:17
+13|13|16|TRUE|13|Falta coloracion|2017-04-30|06:23:02
+14|14|9|TRUE|14| Tejido dañado|2017-05-17|22:41:02
+15|15|10|TRUE|15|Excelente estado|2017-02-01|11:05:20
+16|16|14|TRUE|16| Tejido dañado|2017-01-07|04:42:57
+17|17|17|TRUE|17| Tejido dañado|2017-01-09|09:34:56
+18|18|22|TRUE|18|Falta coloracion|2017-02-15|09:12:54
+19|19|15|TRUE|19|Sin Observaciones|2017-01-06|00:01:08
+20|20|20|TRUE|20| Sangrad excesivo|2017-01-01|00:34:05
+21|21|23|TRUE|21| Tejido dañado|2017-03-23|23:12:20
+22|22|18|TRUE|22|Falta coloracion|2017-01-10|23:17:58
+23|23|24|TRUE|23|Falta coloracion|2017-05-16|20:42:31
+24|24|26|TRUE|24| Tejido dañado|2017-04-30|06:52:07
+25|25|19|TRUE|25|Falta coloracion|2017-03-27|04:32:58
+26|26|21|TRUE|26| Sangrado moderado|2017-04-20|06:58:31
+27|27|31|TRUE|27|Sin Observaciones|2017-02-05|06:56:42
+28|28|35|TRUE|28|Falta coloracion|2017-01-04|00:23:37
+29|29|36|TRUE|29|Falta coloracion|2017-02-05|12:32:31
+30|30|39|TRUE|30| Sangrado moderado|2017-03-15|08:42:22
+31|31|25|TRUE|31|Falta coloracion|2017-05-16|19:31:31
+32|32|29|TRUE|32| Sangrad excesivo|2017-03-05|07:19:58
+33|33|27|TRUE|33|Sin Observaciones|2017-03-20|21:06:48
+34|34|28|TRUE|34| Tejido dañado|2017-02-23|08:19:33
+35|35|32|TRUE|35|Excelente estado|2017-04-03|06:01:31
+36|36|33|TRUE|36| Sangrado moderado|2017-01-30|14:05:06
+37|37|37|TRUE|37|Sin Observaciones|2017-03-15|17:24:23
+38|38|45|TRUE|38|Excelente estado|2017-03-15|01:13:37
+39|39|40|TRUE|39|Excelente estado|2017-03-26|18:20:42
+40|40|30|TRUE|40| Tejido dañado|2017-04-24|06:21:54
+41|41|42|TRUE|41|Falta coloracion|2017-02-18|08:31:44
+42|42|34|TRUE|42|Sin Observaciones|2017-03-07|19:10:32
+43|43|48|TRUE|43|Sin Observaciones|2017-03-13|00:43:38
+44|44|46|TRUE|44| Tejido dañado|2017-03-07|13:17:28
+45|45|38|TRUE|45| Tejido dañado|2017-04-09|01:15:27
+46|46|50|TRUE|46| Sangrado moderado|2017-02-15|00:11:02
+47|47|51|TRUE|47|Sin Observaciones|2017-01-21|11:06:55
+48|48|41|TRUE|48| Sangrado moderado|2017-03-26|19:58:55
+49|49|54|TRUE|49| Tejido dañado|2017-03-26|01:39:28
+50|50|49|TRUE|50| Sangrado moderado|2017-05-04|03:28:27
+51|51|52|TRUE|51| Tejido dañado|2017-02-22|10:36:29
+52|52|58|TRUE|52|Excelente estado|2017-03-27|08:02:12
+53|53|53|TRUE|53|Excelente estado|2017-02-18|11:54:18
+54|54|43|TRUE|54|Excelente estado|2017-02-19|15:59:35
+55|55|60|TRUE|55| Tejido dañado|2017-03-15|12:52:40
+56|56|55|TRUE|56|Falta coloracion|2017-04-14|10:36:42
+57|57|56|TRUE|57| Tejido dañado|2017-05-14|08:05:23
+58|58|44|TRUE|58|Sin Observaciones|2017-04-09|11:52:37
+59|59|57|TRUE|59|Falta coloracion|2017-04-23|00:11:45
+60|60|59|TRUE|60|Excelente estado|2017-02-08|10:37:15
+61|61|68|TRUE|61|Sin Observaciones|2017-03-27|11:07:33
+62|62|47|TRUE|62| Tejido dañado|2017-04-15|23:07:39
+63|63|69|TRUE|63|Falta coloracion|2017-01-29|08:59:04
+64|64|62|TRUE|64| Sangrado moderado|2017-05-19|04:19:21
+65|65|61|TRUE|65| Sangrado moderado|2017-02-23|06:05:33
+66|66|65|TRUE|66| Sangrad excesivo|2017-03-17|06:47:50
+67|67|63|TRUE|67| Sangrad excesivo|2017-02-14|18:45:12
+68|68|67|TRUE|68|Excelente estado|2017-03-04|15:21:41
+69|69|71|TRUE|69|Sin Observaciones|2017-04-02|01:31:21
+70|70|72|TRUE|70|Excelente estado|2017-01-29|04:47:23
+71|71|75|TRUE|71| Sangrad excesivo|2017-01-25|08:23:37
+72|72|73|TRUE|72| Sangrado moderado|2017-04-28|15:17:47
+73|73|74|TRUE|73|Falta coloracion|2017-03-30|06:18:49
+74|74|64|TRUE|74| Sangrado moderado|2017-04-06|07:30:17
+75|75|70|TRUE|75| Sangrado moderado|2017-02-02|21:15:35
+76|76|77|TRUE|76|Falta coloracion|2017-02-01|09:12:42
+77|77|84|TRUE|77| Sangrad excesivo|2017-02-18|21:10:21
+78|78|85|TRUE|78|Excelente estado|2017-04-03|18:10:08
+79|79|78|TRUE|79|Excelente estado|2017-04-14|11:22:46
+80|80|76|TRUE|80| Sangrad excesivo|2017-04-05|19:44:04
+81|81|79|TRUE|81|Sin Observaciones|2017-05-15|17:42:17
+82|82|86|TRUE|82|Excelente estado|2017-02-10|07:47:29
+83|83|89|TRUE|83| Tejido dañado|2017-02-26|10:59:43
+84|84|80|TRUE|84|Falta coloracion|2017-01-25|18:06:48
+85|85|81|TRUE|85| Sangrad excesivo|2017-05-03|17:15:59
+86|86|82|TRUE|86|Falta coloracion|2017-02-12|06:08:25
+87|87|83|TRUE|87|Sin Observaciones|2017-04-29|04:29:06
+88|88|87|TRUE|88|Falta coloracion|2017-03-30|21:36:24
+89|89|90|TRUE|89|Falta coloracion|2017-03-14|23:22:14
+90|90|92|TRUE|90| Tejido dañado|2017-05-13|02:59:29
+91|91|96|TRUE|91|Excelente estado|2017-05-18|09:07:32
+92|92|91|TRUE|92|Excelente estado|2017-03-10|21:55:32
+93|93|97|TRUE|93|Falta coloracion|2017-03-05|00:59:28
+94|94|88|TRUE|94| Sangrad excesivo|2017-04-10|08:15:16
+95|95|95|TRUE|95|Falta coloracion|2017-03-26|15:04:30
+96|96|98|TRUE|96|Excelente estado|2017-04-14|02:25:52
+97|97|99|TRUE|97|Sin Observaciones|2017-04-12|01:10:34
+98|98|93|TRUE|98|Sin Observaciones|2017-04-28|04:09:33
+99|99|66|TRUE|99| Tejido dañado|2017-03-01|16:15:30
+100|100|94|TRUE|100| Sangrado moderado|2017-04-09|11:45:22

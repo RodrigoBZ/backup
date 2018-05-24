@@ -1,0 +1,45 @@
+﻿/*MIGMOR: Otorga SELECT y DELETE.*/
+CREATE USER migmor WITH NOSUPERUSER
+PASSWORD 'migmor'
+VALID UNTIL '2018-12-31';
+
+GRANT SELECT,DELETE
+ON persona,donador,receptor,trasplantar
+TO migmor
+WITH GRANT OPTION;
+
+/*ATD: Otorga INSERT y SELECT.*/
+
+CREATE USER ATD WITH NOSUPERUSER 
+PASSWORD 'ATD'
+VALID UNTIL '2018-12-31';
+
+GRANT INSERT,SELECT
+ON telefono_persona,telefono_hospital,trasplantar
+TO ATD 
+WITH GRANT OPTION;
+
+/*DOR: Otorga UPDATE, INSERT y DELETE*/
+CREATE USER DOR WITH NOSUPERUSER
+PASSWORD 'DOR'
+VALID UNTIL '2018-12-31';
+
+GRANT UPDATE,INSERT,DELETE
+ON receptor,donador,organo
+TO DOR
+WITH GRANT OPTION;
+
+/*MIGMOR: Revoca DELETE*/
+REVOKE DELETE
+ON persona,donador,receptor,trasplantar
+FROM migmor;
+
+/*ATD: Revoca INSERT*/
+REVOKE INSERT 
+ON telefono_persona,telefono_hospital,trasplantar
+FROM ATD;
+
+/*DOR Revoca UPDATE e INSERT*/
+REVOKE UPDATE,INSERT
+ON receptor,donador,organo
+FROM DOR;
